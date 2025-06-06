@@ -62,8 +62,8 @@ ai_fintech_project/
 ├── Dockerfile
 └── README.md
 📈 Demo Screenshot
-![Dashboard Overview](assets/dashboard1.png)
-![Risk Visuals](assets/dashboard2.png)
+![Dashboard Overview]([dashboard1](https://github.com/akashs101199/ai-fintech-credit-risk/edit/main/Desktop/Projects/ai_fintech_project/README.md#:~:text=assets-,dashboard1,-.png))
+![Risk Visuals]([assets/dashboard2.png](https://github.com/akashs101199/ai-fintech-credit-risk/edit/main/Desktop/Projects/ai_fintech_project/README.md#:~:text=dashboard1.png-,dashboard2,-.png))
 
 🧩 Future Improvements
 Add fraud detection graphs using NetworkX / PyTorch Geometric
