@@ -62,7 +62,8 @@ ai_fintech_project/
 ├── Dockerfile
 └── README.md
 📈 Demo Screenshot
-(Add a screenshot of your Streamlit dashboard here)
+<img width="1661" alt="Screenshot 2025-06-05 at 22 43 21" src="https://github.com/user-attachments/assets/062a4e5c-caaf-44a4-8ee3-8bce4c8b71fe" />
+<img width="1661" alt="Screenshot 2025-06-05 at 22 42 56" src="https://github.com/user-attachments/assets/64caf954-8356-4b21-b424-aa4da7f7b5f3" />
 
 🧩 Future Improvements
 Add fraud detection graphs using NetworkX / PyTorch Geometric
@@ -92,4 +93,4 @@ uvicorn model_server:app --reload
 cd dashboard
 streamlit run app.py
 📄 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Akash Shanmuganathan]
